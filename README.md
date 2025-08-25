@@ -1,4 +1,4 @@
-<img src="https://w0.peakpx.com/wallpaper/496/843/HD-wallpaper-big-floppa-caracal-cat-caracal-cat-tshirt.jpg" width="100%" alt="profile" border="0"/>
+<img src="Mambo oma tsuri mambo.png" width="100%" alt="profile" border="0"/>
 <!--
 **TraumeVonHeidelberg/TraumeVonHeidelberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
